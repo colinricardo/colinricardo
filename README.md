@@ -2,7 +2,7 @@
 
 🇮🇪/🇨🇴 co-founder & CEO @ [Audyo](https://audyo.ai) (Techstars 2020). I care about democratizing access to information; making the internet better. 
 
-### [Reading](https://colinricardo.ghost.io/reading)
+### [Blog](https://colinricardo.ghost.io)
 
 ### [Twitter](https://twitter.com/_colinricardo)
 
