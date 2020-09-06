@@ -1,8 +1,8 @@
 # Hi, I'm Colin Ricardo
 
-Irish/Colombian, co-founder, CEO @ [Audyo](https://audyo.ai). MSc. in Artificial Intelligence from University of Edinburgh. Lover of doges.
+🇮🇪/🇨🇴 co-founder & CEO @ [Audyo](https://audyo.ai) (Techstars 2020). I care about democratizing access to information; making the internet better. 
 
-### [Reading](https://colinricardo.io/reading)
+### [Reading](https://colinricardo.ghost.io/reading)
 
 ### [Twitter](https://twitter.com/_colinricardo)
 
