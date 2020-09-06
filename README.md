@@ -1,6 +1,6 @@
 # Hi, I'm Colin Ricardo
 
-🇮🇪/🇨🇴 co-founder & CEO @ [Audyo](https://audyo.ai) (Techstars 2020). I care about democratizing access to information; making the internet a better place. 
+🇮🇪🇨🇴 co-founder, CEO @ Audyo (Techstars 20). I care about democratizing access to information; making the internet a better place. 
 
 ### [Blog](https://colinricardo.ghost.io)
 
